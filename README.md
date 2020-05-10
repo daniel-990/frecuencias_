@@ -1,3 +1,3 @@
 # frecuencias_
 
-https://www.tinkercad.com/things/fEfSinKG1kL este link lleva a una simulacion del codigo en thinkercad donde se puede interactuar con el circuito digitalmente
+https://www.tinkercad.com/things/fEfSinKG1kL This link leads to a simulation of code in a tinkercad where you can interact with the circuit digitally.
